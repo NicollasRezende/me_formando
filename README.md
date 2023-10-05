@@ -155,7 +155,7 @@ Fundamentos de estatística e probabilidade - Distribuições, testes de hipóte
 # ____________________________________________________________________________
 
 
-### Além disso, praticar muito com projetos, construir portfolio, aprender ferramentas como SQL, Git, Tableau e ter boa comunicação e trabalho em equipe. Focar sempre em resolver problemas de negócio com dado
+### Além disso, praticar muito com projetos, construir portfolio, aprender ferramentas como SQL, Git, Tableau e ter boa comunicação e trabalho em equipe seria um importante passo para voce. Focar sempre em resolver problemas de negócio tambem e uma otima pretica
 
 
 
