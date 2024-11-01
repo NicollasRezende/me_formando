@@ -200,7 +200,7 @@ Fundamentos de estatística e probabilidade - Distribuições, testes de hipóte
 
 ## ESPERO TER TE INFORMADO :)
 <div style="display: inline_block"><br>
-  <img align="center" alt="nk-GIF" height="200" width="200" src="https://github.com/NicollasRezende/IMAGE/blob/main/Design%20sem%20nome(1).gif">
+  <img align="center" alt="nk-GIF" height="200" width="200" src="https://github.com/NicollasRezende/IMAGE/blob/main/55924678.png">
 </div>
 
 # ____________________________________________________________________________
